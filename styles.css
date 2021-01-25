@@ -1,0 +1,42 @@
+body {
+    background-image: url(images/pexels-jess-vide-6389718.jpg);
+}
+
+h1,
+h2 {
+    color: rgb(5, 5, 5);
+    margin-left: 3rem;
+    width: 60rem;
+}
+
+p {
+    color: rgb(5, 5, 5);
+    margin-left: 3rem;
+    font-size: 23px;
+    width: 60rem;
+}
+
+table {
+    color: rgb(5, 5, 5);
+    margin-left: 3rem;
+    font-size: 23px;
+}
+
+ol {
+    padding-inline-start: 0px;
+}
+
+li {
+    color: rgb(5, 5, 5);
+    margin-left: 3rem;
+    font-size: 23px;
+    width: 60rem;
+}
+
+.contacts {
+    font-size: 23px;
+}
+
+.contactme {
+    font-size: 23px;
+}
